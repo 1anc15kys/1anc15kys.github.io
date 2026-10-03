@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://1anc15kys.github.io/en/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -12,6 +13,45 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://1anc15kys.github.io/en/"
+                />
+  </url><url>
+    <loc>https://1anc15kys.github.io/en/about/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://1anc15kys.github.io/%E5%85%B3%E4%BA%8E/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://1anc15kys.github.io/en/about/"
+                />
+  </url><url>
+    <loc>https://1anc15kys.github.io/en/page/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://1anc15kys.github.io/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://1anc15kys.github.io/en/page/"
+                />
+  </url><url>
+    <loc>https://1anc15kys.github.io/en/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://1anc15kys.github.io/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://1anc15kys.github.io/en/archives/"
                 />
   </url><url>
     <loc>https://1anc15kys.github.io/en/categories/</loc>
@@ -24,6 +64,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://1anc15kys.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://1anc15kys.github.io/en/links/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://1anc15kys.github.io/%E9%93%BE%E6%8E%A5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://1anc15kys.github.io/en/links/"
+                />
+  </url><url>
+    <loc>https://1anc15kys.github.io/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://1anc15kys.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://1anc15kys.github.io/en/search/"
                 />
   </url><url>
     <loc>https://1anc15kys.github.io/en/tags/</loc>
