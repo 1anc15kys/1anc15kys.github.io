@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Test on 1anc15kys&#39;s blog</title>
+        <title>Test on 1anc15kys的博客</title>
         <link>https://1anc15kys.github.io/tags/test/</link>
-        <description>Recent content in Test on 1anc15kys&#39;s blog</description>
+        <description>Recent content in Test on 1anc15kys的博客</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
+        <language>zh-cn</language>
         <lastBuildDate>Wed, 12 Jan 2000 00:00:00 +0000</lastBuildDate><atom:link href="https://1anc15kys.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Pagination Test 12</title>
             <link>https://1anc15kys.github.io/p/pagination-test-12/</link>
