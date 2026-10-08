@@ -6,6 +6,18 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://1anc15kys.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>BeanCMS</title>
+            <link>https://1anc15kys.github.io/tags/beancms/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>https://1anc15kys.github.io/tags/beancms/</guid>
+            <description></description>
+        </item><item>
+            <title>Fastjson</title>
+            <link>https://1anc15kys.github.io/tags/fastjson/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>https://1anc15kys.github.io/tags/fastjson/</guid>
+            <description></description>
+        </item><item>
             <title>Gallery</title>
             <link>https://1anc15kys.github.io/tags/gallery/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
@@ -16,6 +28,24 @@
             <link>https://1anc15kys.github.io/tags/photoswipe/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
             <guid>https://1anc15kys.github.io/tags/photoswipe/</guid>
+            <description></description>
+        </item><item>
+            <title>Writeup</title>
+            <link>https://1anc15kys.github.io/tags/writeup/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>https://1anc15kys.github.io/tags/writeup/</guid>
+            <description></description>
+        </item><item>
+            <title>YRD-CTF</title>
+            <link>https://1anc15kys.github.io/tags/yrd-ctf/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>https://1anc15kys.github.io/tags/yrd-ctf/</guid>
+            <description></description>
+        </item><item>
+            <title>反序列化漏洞</title>
+            <link>https://1anc15kys.github.io/tags/%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/</link>
+            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>https://1anc15kys.github.io/tags/%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/</guid>
             <description></description>
         </item><item>
             <title>Css</title>
