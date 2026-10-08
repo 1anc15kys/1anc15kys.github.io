@@ -66,6 +66,18 @@
                 href="https://1anc15kys.github.io/en/categories/"
                 />
   </url><url>
+    <loc>https://1anc15kys.github.io/en/categories/javawebsec/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://1anc15kys.github.io/categories/javawebsec/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://1anc15kys.github.io/en/categories/javawebsec/"
+                />
+  </url><url>
     <loc>https://1anc15kys.github.io/en/links/</loc>
     <xhtml:link
                 rel="alternate"
@@ -76,6 +88,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://1anc15kys.github.io/en/links/"
+                />
+  </url><url>
+    <loc>https://1anc15kys.github.io/en/categories/match/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://1anc15kys.github.io/categories/match/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://1anc15kys.github.io/en/categories/match/"
                 />
   </url><url>
     <loc>https://1anc15kys.github.io/en/search/</loc>

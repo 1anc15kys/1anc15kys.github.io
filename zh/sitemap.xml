@@ -28,6 +28,9 @@
                 href="https://1anc15kys.github.io/en/categories/"
                 />
   </url><url>
+    <loc>https://1anc15kys.github.io/categories/documentation/</loc>
+    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://1anc15kys.github.io/tags/gallery/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -76,9 +79,6 @@
                 href="https://1anc15kys.github.io/en/about/"
                 />
   </url><url>
-    <loc>https://1anc15kys.github.io/categories/documentation/</loc>
-    <lastmod>2026-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://1anc15kys.github.io/p/image-gallery/</loc>
     <lastmod>2026-01-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -110,7 +110,29 @@
                 href="https://1anc15kys.github.io/en/archives/"
                 />
   </url><url>
-    <loc>https://1anc15kys.github.io/categories/documentation/documentation/</loc>
+    <loc>https://1anc15kys.github.io/categories/javawebsec/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://1anc15kys.github.io/categories/javawebsec/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://1anc15kys.github.io/en/categories/javawebsec/"
+                />
+  </url><url>
+    <loc>https://1anc15kys.github.io/categories/match/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://1anc15kys.github.io/categories/match/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://1anc15kys.github.io/en/categories/match/"
+                />
   </url><url>
     <loc>https://1anc15kys.github.io/%E9%93%BE%E6%8E%A5/</loc>
     <xhtml:link
@@ -135,7 +157,5 @@
                 hreflang="en"
                 href="https://1anc15kys.github.io/en/search/"
                 />
-  </url><url>
-    <loc>https://1anc15kys.github.io/categories/documentation/documentation/</loc>
   </url>
 </urlset>
